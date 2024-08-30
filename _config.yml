@@ -22,10 +22,10 @@ repository               : "hwj0828/hwj0828.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Wenjie Hu"
+  name             : "Wenjie Hu(胡文杰)"
   pronouns         : # example: "she/her"  
   bio              : "Victory belongs to the most tenacious"
-  location         : "423 Guardian Drive, Philadelphia, PA 19104"
+  location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "wenjie.hu@pennmedicine.upenn.edu" 
