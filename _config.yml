@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenjie Hu / Site Title"
+title                    : "Wenjie Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Wenjie Hu"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "hwj0828/hwj0828.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenjie Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Victory belongs to the most tenacious"
+  location         : "423 Guardian Drive, Philadelphia, PA 19104"
   employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "wenjie.hu@pennmedicine.upenn.edu" 
@@ -261,15 +261,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
