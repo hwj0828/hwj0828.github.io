@@ -21,7 +21,7 @@ repository               : "hwj0828/hwj0828.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wenjie Hu"
   pronouns         : # example: "she/her"  
   bio              : "Victory belongs to the most tenacious"
