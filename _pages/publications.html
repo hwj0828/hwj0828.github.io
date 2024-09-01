@@ -21,7 +21,7 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
+        {% assign title_shown = false %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
