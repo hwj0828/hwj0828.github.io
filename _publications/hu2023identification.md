@@ -2,7 +2,7 @@
 collection: publications
 category: manuscripts
 permalink: /publication/hu2023identification
-citation: 'W. Hu, X.‑H. Zhou and P. Wu (2023). Identification and estimation of treatment effects on long‑term outcomes in clinical trials with external observational data. *Statistica Sinica*.'
+citation: 'W. Hu, X.‑H. Zhou and P. Wu (2023). Identification and estimation of treatment effects on long‑term outcomes in clinical trials with external observational data. <em>Statistica Sinica<em>.'
 ---
 
 <!-- 
