@@ -76,6 +76,20 @@ ninja.data = [{
           window.open("mailto:%77%65%6E%6A%69%65.%68%75@%70%65%6E%6E%6D%65%64%69%63%69%6E%65.%75%70%65%6E%6E.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/hwj0828", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/wenjie-hu-810124133", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
