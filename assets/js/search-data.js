@@ -53,7 +53,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-on-the-academic-job-market-for-the-2025-2026-cycle-please-feel-free-to-reach-out",
+            },},{id: "news-finish-my-visit-to-university-of-cambridge-and-return-to-peking-university",
+          title: 'Finish my visit to University of Cambridge and return to Peking University.',
+          description: "",
+          section: "News",},{id: "news-glad-to-graduate-from-peking-university-i-will-start-my-postdoc-at-university-of-pennsylvania-in-fall-2024",
+          title: 'Glad to graduate from Peking University! I will start my postdoc at University...',
+          description: "",
+          section: "News",},{id: "news-i-m-on-the-academic-job-market-for-the-2025-2026-cycle-please-feel-free-to-reach-out",
           title: 'I’m on the academic job market for the 2025-2026 cycle. Please feel free...',
           description: "",
           section: "News",},{id: "projects-project-1",
