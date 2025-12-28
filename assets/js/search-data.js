@@ -46,9 +46,9 @@ ninja.data = [{
           },
         },{id: "post-a-post-with-plotly-js",
         
-          title: "a post with plotly.js",
+          title: "A post with plotly.js",
         
-        description: "this is what included plotly.js code could look like",
+        description: "This is what included plotly.js code could look like",
         section: "Posts",
         handler: () => {
           
@@ -64,7 +64,7 @@ ninja.data = [{
           title: 'I’m on the academic job market for the 2025-2026 cycle. Please feel free...',
           description: "",
           section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          title: 'Project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
