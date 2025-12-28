@@ -75,8 +75,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-m-on-the-academic-job-market-for-the-2025-2026-cycle-please-feel-free-to-reach-out",
+          title: 'I’m on the academic job market for the 2025-2026 cycle. Please feel free...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
