@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! My Chinese name is 胡文杰. Currently I'm a postdoctoral researcher at the Perelman School of Medicine, University of Pennsylvania. I'm advised by Professor [Yong Chen](https://penncil.med.upenn.edu/about-pi/). Previously I obtained my Ph.D degree in Statistics in 2024 and bachelor's degree in 2019 from Peking University. I'm fortunate to work with Professor Wang Miao and Professor Xiaohua Zhou during my Ph.D study.
+Welcome to my personal website! My Chinese name is 胡文杰. Currently I'm a postdoctoral researcher at the Perelman School of Medicine, University of Pennsylvania. I'm advised by Professor [Yong Chen](https://penncil.med.upenn.edu/about-pi/). Previously I obtained my Ph.D degree in Statistics in 2024 and bachelor's degree in Probability in 2019 from Peking University. I'm fortunate to work with Professor Wang Miao and Professor Xiao-hua Zhou during my Ph.D study.
 
 My current research focuses on (i) causal inference with unmeasured confounding; (ii) data integration; (iii) high-dimensional statistics. My CV can be downloaded [here](/assets/pdf/example_pdf.pdf).
 
