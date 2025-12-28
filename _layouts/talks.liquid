@@ -4,7 +4,7 @@
   <div id="{{ entry.key }}" class="col-sm-12">
     <!-- Month Year. Title. Note. -->
     {% if entry.month %}
-      {{ entry.month | slice: 0, 3 }}
+      {{ entry.month | capitalize | slice: 0, 3 }}
     {% endif %}
     {% if entry.day %}
       {{ entry.day }},

@@ -12,8 +12,11 @@ nav_order: 2
   list-style: none;
   padding-left: 0;
 }
+.talks-list ol li {
+  margin-bottom: 2rem;
+}
 </style>
 
 <div class="talks-list">
-{% bibliography -f talks -T talks %}
+{% bibliography -f talks -T talks --group_by none %}
 </div>
