@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome to my personal website! Currently I'm a postdoctoral researcher at the Perelman School of Medicine, University of Pennsylvania. I'm advised by Professor [Yong Chen](https://penncil.med.upenn.edu/about-pi/). Previously I obtained my Ph.D degree in Statistics in 2024 and bachelor's degree in 2019 from Peking University. 
 
-My current research focuses on (i) causal inference with unmeasured confounding; (ii) data integration; (iii) high-dimensional statistics. My CV can be downloaded here.
+My current research focuses on (i) causal inference with unmeasured confounding; (ii) data integration; (iii) high-dimensional statistics. My CV can be downloaded [here](/assets/pdf/example_pdf.pdf).
 
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
