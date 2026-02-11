@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-openclaw-first-try-an-agentic-coding-assistant",
+        
+          title: "OpenClaw First Try: An Agentic Coding Assistant",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/openclaw-first-try/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "A post with plotly.js",
         
