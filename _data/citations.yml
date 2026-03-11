@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-11'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 60
+    citations: 61
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:f2IySw72cVMC:
@@ -50,11 +50,11 @@ papers:
     title: Estimating true post-click conversion via group-stratified counterfactual inference
     year: '2021'
   2FC7k-QAAAAJ:mB3voiENLucC:
-    citations: 7
+    citations: 9
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 339
+    citations: 341
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
