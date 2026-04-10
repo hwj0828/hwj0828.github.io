@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-04-10'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 90
+    citations: 94
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -29,12 +29,16 @@ papers:
     citations: 1
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
+  2FC7k-QAAAAJ:bFI3QPDXJZMC:
+    citations: 0
+    title: "CSF microtubule-associated protein 1 light chain 3A and 3B levels are associated with tau pathology and Alzheimer\u2019s disease risk through amyloid deposition and microglial signaling"
+    year: '2026'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 61
+    citations: 60
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:f2IySw72cVMC:
-    citations: 0
+    citations: 1
     title: Mechanistic study of Alzheimer's disease with behavioral and psychological symptoms based on electroencephalography microstates
     year: '2026'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
@@ -42,7 +46,7 @@ papers:
     title: Semiparametric efficient fusion of individual data and summary statistics
     year: '2022'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
-    citations: 18
+    citations: 19
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
@@ -54,7 +58,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 341
+    citations: 342
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
