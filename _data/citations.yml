@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-01'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 94
+    citations: 95
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -18,7 +18,7 @@ papers:
     title: "Online supplement to \u201CIdentifying effects of multiple treatments in the presence of unmeasured confounding\u201D"
     year: Unknown Year
   2FC7k-QAAAAJ:RYcK_YlVTxYC:
-    citations: 22
+    citations: 24
     title: Identification and estimation of treatment effects on long-term outcomes in clinical trials with external observational data
     year: '2022'
   2FC7k-QAAAAJ:SeFeTyx0c_EC:
@@ -29,24 +29,16 @@ papers:
     citations: 1
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
-  2FC7k-QAAAAJ:bFI3QPDXJZMC:
-    citations: 0
-    title: "CSF microtubule-associated protein 1 light chain 3A and 3B levels are associated with tau pathology and Alzheimer\u2019s disease risk through amyloid deposition and microglial signaling"
-    year: '2026'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 60
+    citations: 64
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
-  2FC7k-QAAAAJ:f2IySw72cVMC:
-    citations: 1
-    title: Mechanistic study of Alzheimer's disease with behavioral and psychological symptoms based on electroencephalography microstates
-    year: '2026'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
     citations: 5
     title: Semiparametric efficient fusion of individual data and summary statistics
     year: '2022'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
-    citations: 19
+    citations: 20
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
@@ -58,7 +50,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 342
+    citations: 344
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
