@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-06'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 95
+    citations: 96
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -36,7 +36,7 @@ papers:
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
     citations: 5
     title: Semiparametric efficient fusion of individual data and summary statistics
-    year: '2022'
+    year: '2026'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
     citations: 20
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
@@ -50,7 +50,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 344
+    citations: 346
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
@@ -58,7 +58,7 @@ papers:
     title: A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems
     year: '2021'
   2FC7k-QAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model
     year: '2020'
   2FC7k-QAAAAJ:u_35RYKgDlwC:
