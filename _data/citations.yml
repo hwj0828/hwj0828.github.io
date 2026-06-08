@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-08'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 99
+    citations: 100
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -25,6 +25,10 @@ papers:
     citations: 2
     title: A constructive approach to selective risk control
     year: '2024'
+  2FC7k-QAAAAJ:_xSYboBqXhAC:
+    citations: 0
+    title: Simultaneous false discovery rate control in location families
+    year: '2026'
   2FC7k-QAAAAJ:a0OBvERweLwC:
     citations: 1
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
@@ -50,7 +54,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 346
+    citations: 348
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
@@ -65,10 +69,6 @@ papers:
     citations: 0
     title: Identifying average causal effect in regression discontinuity design with auxiliary data
     year: '2024'
-  2FC7k-QAAAAJ:vV6vV6tmYwMC:
-    citations: 10
-    title: Paradoxes and resolutions for semiparametric fusion of individual and summary data
-    year: '2022'
   2FC7k-QAAAAJ:yD5IFk8b50cC:
     citations: 1
     title: Improve Sensitivity Analysis Synthesizing Randomized Clinical Trials With Limited Overlap
