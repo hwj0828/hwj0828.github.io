@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-06-08'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 92
+    citations: 100
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -18,27 +18,31 @@ papers:
     title: "Online supplement to \u201CIdentifying effects of multiple treatments in the presence of unmeasured confounding\u201D"
     year: Unknown Year
   2FC7k-QAAAAJ:RYcK_YlVTxYC:
-    citations: 22
+    citations: 26
     title: Identification and estimation of treatment effects on long-term outcomes in clinical trials with external observational data
     year: '2022'
   2FC7k-QAAAAJ:SeFeTyx0c_EC:
-    citations: 1
+    citations: 2
     title: A constructive approach to selective risk control
     year: '2024'
+  2FC7k-QAAAAJ:_xSYboBqXhAC:
+    citations: 0
+    title: Simultaneous false discovery rate control in location families
+    year: '2026'
   2FC7k-QAAAAJ:a0OBvERweLwC:
     citations: 1
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 59
+    citations: 65
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
-    citations: 3
-    title: Semiparametric Efficient Fusion of Individual Data and Summary Statistics
-    year: '2022'
+    citations: 6
+    title: Semiparametric efficient fusion of individual data and summary statistics
+    year: '2026'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
-    citations: 18
+    citations: 19
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
@@ -46,15 +50,15 @@ papers:
     title: Estimating true post-click conversion via group-stratified counterfactual inference
     year: '2021'
   2FC7k-QAAAAJ:mB3voiENLucC:
-    citations: 6
+    citations: 9
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 337
+    citations: 348
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
-    citations: 7
+    citations: 8
     title: A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems
     year: '2021'
   2FC7k-QAAAAJ:u5HHmVD_uO8C:
@@ -65,12 +69,8 @@ papers:
     citations: 0
     title: Identifying average causal effect in regression discontinuity design with auxiliary data
     year: '2024'
-  2FC7k-QAAAAJ:vV6vV6tmYwMC:
-    citations: 10
-    title: Paradoxes and resolutions for semiparametric fusion of individual and summary data
-    year: '2022'
   2FC7k-QAAAAJ:yD5IFk8b50cC:
-    citations: 0
+    citations: 1
     title: Improve Sensitivity Analysis Synthesizing Randomized Clinical Trials With Limited Overlap
     year: '2024'
   2FC7k-QAAAAJ:zA6iFVUQeVQC:
