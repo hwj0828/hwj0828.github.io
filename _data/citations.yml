@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-24'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 100
+    citations: 101
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -34,11 +34,11 @@ papers:
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 65
+    citations: 66
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
-    citations: 6
+    citations: 8
     title: Semiparametric efficient fusion of individual data and summary statistics
     year: '2026'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
