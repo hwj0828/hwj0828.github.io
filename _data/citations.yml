@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: "Online supplement to \u201CIdentifying effects of multiple treatments in the presence of unmeasured confounding\u201D"
     year: Unknown Year
   2FC7k-QAAAAJ:RYcK_YlVTxYC:
-    citations: 26
+    citations: 25
     title: Identification and estimation of treatment effects on long-term outcomes in clinical trials with external observational data
     year: '2022'
   2FC7k-QAAAAJ:SeFeTyx0c_EC:
@@ -34,19 +34,19 @@ papers:
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 66
+    citations: 65
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
-    citations: 8
+    citations: 9
     title: Semiparametric efficient fusion of individual data and summary statistics
-    year: '2022'
+    year: '2026'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
-    citations: 19
+    citations: 20
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
-    citations: 15
+    citations: 13
     title: Estimating true post-click conversion via group-stratified counterfactual inference
     year: '2021'
   2FC7k-QAAAAJ:mB3voiENLucC:
@@ -54,7 +54,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 349
+    citations: 343
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
@@ -62,7 +62,7 @@ papers:
     title: A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems
     year: '2021'
   2FC7k-QAAAAJ:u5HHmVD_uO8C:
-    citations: 37
+    citations: 38
     title: Prediction of the COVID-19 outbreak in China based on a new stochastic dynamic model
     year: '2020'
   2FC7k-QAAAAJ:u_35RYKgDlwC:
