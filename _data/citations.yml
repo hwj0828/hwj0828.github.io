@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-07'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
+  2FC7k-QAAAAJ:EUQCXRtRnyEC:
+    citations: 18
+    title: "Repetitive transcranial magnetic stimulation in Alzheimer\u2019s disease: effects on neural and synaptic rehabilitation"
+    year: '2024'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
     citations: 103
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
@@ -33,8 +37,12 @@ papers:
     citations: 2
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
+  2FC7k-QAAAAJ:b0M2c_1WBrUC:
+    citations: 0
+    title: Distributional Diagnosis and Calibration with Negative Controls for Outcome-wide Real-world Evidence
+    year: '2026'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 65
+    citations: 66
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
@@ -42,7 +50,7 @@ papers:
     title: Semiparametric efficient fusion of individual data and summary statistics
     year: '2026'
   2FC7k-QAAAAJ:hFOr9nPyWt4C:
-    citations: 20
+    citations: 21
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
