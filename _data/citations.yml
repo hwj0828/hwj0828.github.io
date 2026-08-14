@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-14'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -9,12 +9,8 @@ papers:
     citations: 0
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
-  2FC7k-QAAAAJ:EUQCXRtRnyEC:
-    citations: 18
-    title: "Repetitive transcranial magnetic stimulation in Alzheimer\u2019s disease: effects on neural and synaptic rehabilitation"
-    year: '2024'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 103
+    citations: 106
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -22,7 +18,7 @@ papers:
     title: "Online supplement to \u201CIdentifying effects of multiple treatments in the presence of unmeasured confounding\u201D"
     year: Unknown Year
   2FC7k-QAAAAJ:RYcK_YlVTxYC:
-    citations: 25
+    citations: 27
     title: Identification and estimation of treatment effects on long-term outcomes in clinical trials with external observational data
     year: '2022'
   2FC7k-QAAAAJ:SeFeTyx0c_EC:
@@ -42,7 +38,7 @@ papers:
     title: Distributional Diagnosis and Calibration with Negative Controls for Outcome-wide Real-world Evidence
     year: '2026'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
-    citations: 66
+    citations: 67
     title: Identifying effects of multiple treatments in the presence of unmeasured confounding
     year: '2023'
   2FC7k-QAAAAJ:fPk4N6BV_jEC:
@@ -79,8 +75,8 @@ papers:
     year: '2024'
   2FC7k-QAAAAJ:yD5IFk8b50cC:
     citations: 1
-    title: Improve Sensitivity Analysis Synthesizing Randomized Clinical Trials With Limited Overlap
-    year: '2024'
+    title: Improving Sensitivity Analysis By Synthesizing Randomized Clinical Trials With Limited Overlap
+    year: '2026'
   2FC7k-QAAAAJ:zA6iFVUQeVQC:
     citations: 0
     title: "Drug Efficacy Estimation for Follow\u2010on Companion Diagnostic Devices Through External Studies"
