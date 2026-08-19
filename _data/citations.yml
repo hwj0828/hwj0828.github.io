@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: 'CSTEapp: An interactive R-Shiny application of the covariate-specific treatment effect curve for visualizing individualized treatment rule'
     year: '2025'
   2FC7k-QAAAAJ:J_g5lzvAfSwC:
-    citations: 106
+    citations: 107
     title: 'On the opportunity of causal learning in recommendation systems: Foundation, estimation, prediction and challenges'
     year: '2022'
   2FC7k-QAAAAJ:NaGl4SEjCO4C:
@@ -50,7 +50,7 @@ papers:
     title: Model-assisted inference for covariate-specific treatment effects with high-dimensional data
     year: '2024'
   2FC7k-QAAAAJ:iH-uZ7U-co4C:
-    citations: 13
+    citations: 14
     title: Estimating true post-click conversion via group-stratified counterfactual inference
     year: '2021'
   2FC7k-QAAAAJ:mB3voiENLucC:
@@ -58,7 +58,7 @@ papers:
     title: 'Invited commentary: estimation and bounds under data fusion'
     year: '2022'
   2FC7k-QAAAAJ:qjMakFHDy7sC:
-    citations: 343
+    citations: 344
     title: Estimation of the time-varying reproduction number of COVID-19 outbreak in China
     year: '2020'
   2FC7k-QAAAAJ:r0BpntZqJG4C:
