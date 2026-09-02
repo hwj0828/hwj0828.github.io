@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-02'
 papers:
   2FC7k-QAAAAJ:BqipwSGYUEgC:
     citations: 3
@@ -34,7 +34,7 @@ papers:
     title: 'Negative control-calibrated difference-in-difference analyses: addressing unmeasured confounding in RWD with application to racial/ethnic differences'
     year: '2025'
   2FC7k-QAAAAJ:b0M2c_1WBrUC:
-    citations: 0
+    citations: 1
     title: Distributional Diagnosis and Calibration with Negative Controls for Outcome-wide Real-world Evidence
     year: '2026'
   2FC7k-QAAAAJ:d1gkVwhDpl0C:
