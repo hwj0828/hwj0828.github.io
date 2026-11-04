@@ -11,7 +11,7 @@ This is a Jekyll website based on al-folio. Most edits belong in **`_pages/`**, 
 | Portrait position or shape | [`_pages/about.md`](_pages/about.md) | `profile.align`, `profile.image`, `profile.image_circular` |
 | Portrait image | [`assets/img/prof_pic.jpg`](assets/img/prof_pic.jpg) | Replace this file, or change `profile.image` to another filename |
 | Email, social profiles, CV link | [`_data/socials.yml`](_data/socials.yml) | Your actual contact details; remove a line to hide an icon |
-| Downloadable CV | [`assets/pdf/example_pdf.pdf`](assets/pdf/example_pdf.pdf) | Replace the PDF. Its existing filename is kept to preserve links |
+| Downloadable CV | [`assets/pdf/myCV.pdf`](assets/pdf/myCV.pdf) | Replace this PDF with your latest CV, keeping the same filename |
 | Publications and manuscript status | [`_bibliography/papers.bib`](_bibliography/papers.bib) | One BibTeX entry per paper |
 | Papers featured on the homepage | [`_bibliography/papers.bib`](_bibliography/papers.bib) | Add or remove `selected={true}` in an entry |
 | Publication page heading/introduction | [`_pages/publications.md`](_pages/publications.md) | `title`, `description`, and text around the bibliography tag |
@@ -125,7 +125,7 @@ Use your own title and publication date. Jekyll normally hides future-dated post
 
 Keep BibTeX entries in their respective bibliography files. Use `selected={true}` to feature a paper, `arxiv={...}` or `doi={...}` for publication links, and `pdf={filename.pdf}` or `slides={filename.pdf}` for files in `assets/pdf/`. External PDF/slide URLs are also supported. The talks page follows the order of entries in `talks.bib`; put newer talks first.
 
-The CV link has one source: `cv_pdf` in `_data/socials.yml`. Both the homepage text and social icon use it. If you rename the PDF, change that setting too.
+The CV link has one source: `cv_pdf` in `_data/socials.yml`, currently `/assets/pdf/myCV.pdf`. The homepage text, social icon and search menu all use it. If you rename the PDF, change that setting too.
 
 ## Preview and publish
 
@@ -169,6 +169,6 @@ Do not edit `_site/`: it is generated and your edits will be overwritten. Do not
 
 Removed the Einstein profile, duplicate People page, sample project, sample book review, sample Plotly post, unused CV/resume templates, demo media/notebooks, template screenshots/reports, and unused newsletter/comment/external-feed integrations. Also removed upstream Docker-publishing, report and documentation-maintenance workflows, the duplicate Docker setup, and the old manual deployment script.
 
-Your biography, papers, talks, teaching, news, contact details, portrait and linked PDF are retained. The existing CV file is kept even though its filename is `example_pdf.pdf`, because the homepage uses it. The existing publication statuses, old job-market news and contact email are also preserved; update those source files when you want to revise the content.
+Your biography, papers, talks, teaching, news, contact details, portrait and linked PDF are retained. The CV is stored as `assets/pdf/myCV.pdf`. The existing publication statuses, old job-market news and contact email are also preserved; update those source files when you want to revise the content.
 
 The original template's long setup/customization documents are replaced by this guide. Deleted files remain recoverable from Git history. The [al-folio license](LICENSE) is retained.
