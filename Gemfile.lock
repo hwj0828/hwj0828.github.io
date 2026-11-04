@@ -41,13 +41,9 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 2.0)
       observer (< 1.0)
-    classifier-reborn (2.3.0)
-      fast-stemmer (~> 1.0)
-      matrix (~> 0.4)
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
     connection_pool (2.5.4)
-    crass (1.0.6)
     csl (2.2.1)
       forwardable (~> 1.3)
       namae (~> 1.2)
@@ -58,23 +54,16 @@ GEM
       time (< 1.0)
     csl-styles (2.0.2)
       csl (~> 2.0)
-    css_parser (1.21.1)
-      addressable
     cssminify2 (2.1.0)
     csv (3.3.5)
     date (3.5.0)
-    deep_merge (1.2.2)
     drb (2.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     execjs (2.10.0)
-    fast-stemmer (1.0.2)
-    feedjira (4.0.1)
-      logger (>= 1.0, < 2)
-      loofah (>= 2.3.1, < 3)
-      sax-machine (>= 1.0, < 2)
+    ffi (1.17.2)
     ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-aarch64-linux-musl)
     ffi (1.17.2-arm-linux-gnu)
@@ -112,10 +101,6 @@ GEM
       nokogiri (>= 1.4)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
-    httparty (0.23.2)
-      csv
-      mini_mime (>= 1.0.0)
-      multi_xml (>= 0.5.2)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     jekyll (4.4.1)
@@ -143,13 +128,8 @@ GEM
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-get-json (1.0.0)
-      deep_merge (~> 1.2)
-      jekyll (>= 3.0)
     jekyll-imagemagick (1.4.0)
       jekyll (>= 3.4)
-    jekyll-jupyter-notebook (0.0.6)
-      jekyll
     jekyll-link-attributes (1.0.1)
     jekyll-minifier (0.2.2)
       cssminify2 (~> 2.1.0)
@@ -174,7 +154,6 @@ GEM
     jekyll-toc (0.19.0)
       jekyll (>= 3.9)
       nokogiri (~> 1.12)
-    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.13.0)
@@ -194,17 +173,14 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
-    loofah (2.24.1)
-      crass (~> 1.0.2)
-      nokogiri (>= 1.12.0)
-    matrix (0.4.3)
     mercenary (0.4.0)
-    mini_mime (1.1.5)
+    mini_portile2 (2.8.9)
     minitest (5.26.2)
-    multi_xml (0.7.2)
-      bigdecimal (~> 3.1)
     namae (1.2.0)
       racc (~> 1.7)
+    nokogiri (1.18.10)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     nokogiri (1.18.10-aarch64-linux-gnu)
       racc (~> 1.4)
     nokogiri (1.18.10-aarch64-linux-musl)
@@ -226,7 +202,6 @@ GEM
       stringio
       time
       uri
-    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.2)
@@ -254,7 +229,6 @@ GEM
       google-protobuf (~> 4.31)
     sass-embedded (1.94.2-x86_64-linux-musl)
       google-protobuf (~> 4.31)
-    sax-machine (1.3.2)
     securerandom (0.4.1)
     set (1.1.2)
     singleton (0.3.0)
@@ -286,17 +260,11 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  classifier-reborn
-  css_parser
-  feedjira
-  httparty
   jekyll
   jekyll-archives-v2
   jekyll-email-protect
   jekyll-feed
-  jekyll-get-json
   jekyll-imagemagick
-  jekyll-jupyter-notebook
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
@@ -306,10 +274,8 @@ DEPENDENCIES
   jekyll-tabs
   jekyll-terser!
   jekyll-toc
-  jekyll-twitter-plugin
   jemoji
   observer
-  ostruct
 
 BUNDLED WITH
    2.7.2
