@@ -2,39 +2,29 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>.
+subtitle: "" # Optional line beneath your name
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# Sections appear below your biography in this order.
+# Reorder these lines, remove a section to hide it, or add "latest_posts".
+sections:
+  - news
+  - selected_papers
+  - social
 
 announcements:
-  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal website! My Chinese name is 胡文杰. Currently I'm an assistant professor at Wuhan Univeristy. Previously, I was a postdoctoral researcher at the Perelman School of Medicine, University of Pennsylvania, advised by Professor [Yong Chen](https://penncil.med.upenn.edu/about-pi/).  I obtained my Ph.D degree in Statistics in 2024 and bachelor's degree in Probability in 2019 from Peking University. I'm fortunate to work with Professor [Wang Miao](https://math.pku.edu.cn/teachers/mwfy/) and Professor [Xiao-hua Zhou](https://xiaohuazhou.pku.edu.cn/) during my Ph.D study.
+Welcome to my personal website! My Chinese name is 胡文杰. Currently I'm an assistant professor at Wuhan University. Previously, I was a postdoctoral researcher at the Perelman School of Medicine, University of Pennsylvania, advised by Professor [Yong Chen](https://penncil.med.upenn.edu/about-pi/).  I obtained my Ph.D degree in Statistics in 2024 and bachelor's degree in Probability in 2019 from Peking University. I'm fortunate to work with Professor [Wang Miao](https://math.pku.edu.cn/teachers/mwfy/) and Professor [Xiao-hua Zhou](https://xiaohuazhou.pku.edu.cn/) during my Ph.D study.
 
-My current research focuses on (i) causal inference with unmeasured confounding; (ii) data integration; (iii) high-dimensional statistics. My CV can be downloaded [here](/assets/pdf/example_pdf.pdf).
-
-{% comment %}
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-{% endcomment %}
+My current research focuses on (i) causal inference with unmeasured confounding; (ii) data integration; (iii) high-dimensional statistics.{% if site.data.socials.cv_pdf %} My CV can be downloaded [here]({{ site.data.socials.cv_pdf | relative_url }}).{% endif %}

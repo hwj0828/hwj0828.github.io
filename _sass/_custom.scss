@@ -1,0 +1,37 @@
+// Your style changes go here. This file loads after all theme styles.
+// Site width: _config.yml -> max_width
+// Homepage sections and photo alignment: _pages/about.md
+
+// Talks: keep page-specific styling here instead of inside the Markdown page.
+.talks-list ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+.talks-list ol li {
+  margin-bottom: 2rem;
+}
+
+// Examples: uncomment a block, then adjust the value.
+// Light-mode link/accent color:
+// :root {
+//   --global-theme-color: #005b96;
+//   --global-hover-color: #005b96;
+// }
+
+// Dark-mode link/accent color:
+// html[data-theme="dark"] {
+//   --global-theme-color: #75c8ff;
+//   --global-hover-color: #75c8ff;
+// }
+
+// Body text size and line spacing:
+// body {
+//   font-size: 17px;
+//   line-height: 1.7;
+// }
+
+// Portrait width on desktop (the existing theme uses 30%):
+// @media (min-width: 576px) {
+//   .profile { width: 28%; }
+// }
