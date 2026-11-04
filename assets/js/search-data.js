@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-on-the-academic-job-market-for-the-2025-2026-cycle-please-feel-free-to-reach-out",
           title: 'I’m on the academic job market for the 2025-2026 cycle. Please feel free...',
           description: "",
+          section: "News",},{id: "news-i-start-my-new-job-as-assistant-professor-at-wuhan-university",
+          title: 'I start my new job as assistant professor at Wuhan University.',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
