@@ -37,23 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "A post with plotly.js",
-        
-        description: "This is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-finish-my-visit-to-university-of-cambridge-and-return-to-peking-university",
+        },{id: "news-finish-my-visit-to-university-of-cambridge-and-return-to-peking-university",
           title: 'Finish my visit to University of Cambridge and return to Peking University.',
           description: "",
           section: "News",},{id: "news-glad-to-graduate-from-peking-university-i-will-start-my-postdoc-at-university-of-pennsylvania-in-fall-2024",
@@ -62,12 +46,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-on-the-academic-job-market-for-the-2025-2026-cycle-please-feel-free-to-reach-out",
           title: 'I’m on the academic job market for the 2025-2026 cycle. Please feel free...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'Project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
